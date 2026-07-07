@@ -1,6 +1,6 @@
 import React from 'react'
 
-type CompanySelectorProps = {
+export type CompanySelectorProps = {
   companySymbols: string[]
   selectedSymbol?: string
   onSymbolChange: (symbol: string) => void

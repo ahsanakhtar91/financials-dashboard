@@ -80,7 +80,7 @@ function App() {
         onSymbolChange={setSelectedSymbol}
       />
       {mostRecentRecord && (
-        <div className='pl-8 text-sm self-start text-stone-600 font-mono'>
+        <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
           <span>
             Showing data for company:{' '}
             <span className='font-semibold'>{selectedSymbol}</span>
