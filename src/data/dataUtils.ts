@@ -50,7 +50,7 @@ export function toCurrencyLocale(value?: number): string {
     value?.toLocaleString('en-US', {
       style: 'currency',
       currency: 'USD',
-      maximumFractionDigits: 2
+      maximumFractionDigits: 0
     }) ?? '—'
   )
 }
