@@ -11,7 +11,7 @@ type FilingsTableProps = {
 }
 
 const tableColumns = [
-  { key: 'fiscal_year', title: 'Fiscal Year', alignRight: false },
+  { key: 'fiscal_year', title: 'Year', alignRight: false },
   { key: 'fiscal_quarter', title: 'Quarter', alignRight: false },
   { key: 'total_assets', title: 'Total Assets', alignRight: true },
   { key: 'total_liabilities', title: 'Total Liabilities', alignRight: true },
@@ -86,7 +86,7 @@ export function FilingsTable({ records }: FilingsTableProps) {
                   <th
                     key={column.key}
                     onClick={() => changeSort(column.key)}
-                    className={`cursor-pointer px-4 py-3 text-sm font-mono font-medium uppercase tracking-wide transition-colors hover:bg-stone-100 ${
+                    className={`cursor-pointer px-4 py-3 md:text-xs lg:text-sm font-mono font-medium uppercase tracking-wide transition-colors hover:bg-stone-100 ${
                       column.alignRight ? 'text-right' : 'text-left'
                     } 
                     ${active ? 'text-shadow-black bg-stone-100' : 'text-stone-500 bg-stone-50/50'}`}
