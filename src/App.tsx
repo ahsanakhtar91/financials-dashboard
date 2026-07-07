@@ -103,7 +103,7 @@ function App() {
         onSymbolChange={onSymbolChange}
       />
       {loading ? (
-        <div className='font-mono text-sm'>
+        <div className='font-mono text-sm text-stone-600'>
           Loading Data for <span className='font-bold'>{selectedSymbol}</span>{' '}
           ...
         </div>

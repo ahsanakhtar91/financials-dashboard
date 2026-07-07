@@ -70,13 +70,13 @@ export function FilingsTable({ records }: FilingsTableProps) {
       <div className='border-b border-stone-100 px-4 py-3'>
         <div className='text-base font-bold text-stone-900'>Filing History</div>
 
-        <div className='text-xs text-stone-400 mt-1'>
+        <div className='text-sm text-stone-400 mt-0.5'>
           {records.length} {records.length === 1 ? 'filing' : 'filings'} found
         </div>
       </div>
 
       <div className='overflow-x-auto'>
-        <table className='w-full'>
+        <table className={`w-full ${records.length === 0 ? 'hidden' : ''}`}>
           <thead>
             <tr className='border-b border-stone-100'>
               {tableColumns.map((column) => {
