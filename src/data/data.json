@@ -26,9 +26,7 @@
     "stock_inventory": 34391000000,
     "sum_of_current_assets": 47746000000,
     "sum_of_current_liabilities": 56354000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "total_assets": 162090000000,
     "total_equity": 63914000000,
@@ -60,9 +58,7 @@
     "stock_inventory": 6993000000,
     "sum_of_current_assets": 17551000000,
     "sum_of_current_liabilities": 10249000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "total_assets": 44212000000,
     "total_equity": 14119000000,
@@ -92,9 +88,7 @@
     "stock_inventory": 1393000000,
     "sum_of_current_assets": 3748000000,
     "sum_of_current_liabilities": 1685000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "total_assets": 7221000000,
     "total_equity": 4540000000,
@@ -127,9 +121,7 @@
     "stock_inventory": 1004000000,
     "sum_of_current_assets": 3293000000,
     "sum_of_current_liabilities": 1815000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "total_assets": 5760000000,
     "total_equity": 1274000000,
@@ -163,9 +155,7 @@
     "stock_inventory": 2817711000,
     "sum_of_current_assets": 4406913000,
     "sum_of_current_liabilities": 3328254000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "total_assets": 6938867000,
     "total_equity": 2335474000,
@@ -198,9 +188,7 @@
     "stock_inventory": 1213000000,
     "sum_of_current_assets": 2616000000,
     "sum_of_current_liabilities": 1016000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "total_assets": 6680000000,
     "total_equity": 1839000000,
@@ -233,9 +221,7 @@
     "stock_inventory": 917661000,
     "sum_of_current_assets": 1507138000,
     "sum_of_current_liabilities": 1088719000,
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "total_assets": 2542120000,
     "total_equity": 1035758000,
@@ -266,9 +252,7 @@
     "stock_inventory": 5026000000,
     "sum_of_current_assets": 6159000000,
     "sum_of_current_liabilities": 4397000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "total_assets": 21331000000,
     "total_equity": 4555000000,
@@ -300,9 +284,7 @@
     "stock_inventory": 2804000000,
     "sum_of_current_assets": 3922000000,
     "sum_of_current_liabilities": 1879000000,
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "total_assets": 11563000000,
     "total_equity": 6885000000,
@@ -335,9 +317,7 @@
     "stock_inventory": 3237000000,
     "sum_of_current_assets": 5929000000,
     "sum_of_current_liabilities": 2948000000,
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "total_assets": 11745000000,
     "total_equity": 4196000000,
@@ -372,11 +352,7 @@
     "stock_inventory": 1160769000,
     "sum_of_current_assets": 1527081000,
     "sum_of_current_liabilities": 1229914000,
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "total_assets": 4251153000,
     "total_equity": 2417456000,
@@ -412,9 +388,7 @@
     "stock_inventory": 5486000000,
     "sum_of_current_assets": 8410000000,
     "sum_of_current_liabilities": 8356000000,
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "total_assets": 16214000000,
     "total_equity": 5501000000,
@@ -448,9 +422,7 @@
     "stock_inventory": 953083000,
     "sum_of_current_assets": 1608705000,
     "sum_of_current_liabilities": 619006000,
-    "symbols": [
-      "UVV"
-    ],
+    "symbols": ["UVV"],
     "timeframe": "quarterly",
     "total_assets": 2255469000,
     "total_equity": 1079783000,
@@ -484,10 +456,7 @@
     "stock_inventory": 8189000000,
     "sum_of_current_assets": 10033000000,
     "sum_of_current_liabilities": 8459000000,
-    "symbols": [
-      "LOW",
-      "LOWw"
-    ],
+    "symbols": ["LOW", "LOWw"],
     "timeframe": "quarterly",
     "total_assets": 34122000000,
     "total_equity": 19176000000,
@@ -519,9 +488,7 @@
     "stock_inventory": 1538514000,
     "sum_of_current_assets": 2123918000,
     "sum_of_current_liabilities": 279265000,
-    "symbols": [
-      "TIF"
-    ],
+    "symbols": ["TIF"],
     "timeframe": "quarterly",
     "total_assets": 3145469000,
     "total_equity": 1673442000,
@@ -555,9 +522,7 @@
     "stock_inventory": 33365000000,
     "sum_of_current_assets": 48692000000,
     "sum_of_current_liabilities": 57135000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "total_assets": 168609000000,
     "total_equity": 68509000000,
@@ -592,10 +557,7 @@
     "stock_inventory": 110558000,
     "sum_of_current_assets": 427971000,
     "sum_of_current_liabilities": 534995000,
-    "symbols": [
-      "JW.A",
-      "JW.B"
-    ],
+    "symbols": ["JW.A", "JW.B"],
     "timeframe": "quarterly",
     "total_assets": 2340907000,
     "total_equity": 647067000,
@@ -627,9 +589,7 @@
     "stock_inventory": 217050000,
     "sum_of_current_assets": 583854000,
     "sum_of_current_liabilities": 160100000,
-    "symbols": [
-      "URBN"
-    ],
+    "symbols": ["URBN"],
     "timeframe": "quarterly",
     "total_assets": 1445221000,
     "total_equity": 1148215000,
@@ -661,9 +621,7 @@
     "stock_inventory": 7528000000,
     "sum_of_current_assets": 17683000000,
     "sum_of_current_liabilities": 9810000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "total_assets": 44233000000,
     "total_equity": 14602000000,
@@ -695,10 +653,7 @@
     "stock_inventory": 1413993000,
     "sum_of_current_assets": 1650027000,
     "sum_of_current_liabilities": 808738000,
-    "symbols": [
-      "DDS",
-      "DDT"
-    ],
+    "symbols": ["DDS", "DDT"],
     "timeframe": "quarterly",
     "total_assets": 4597849000,
     "total_equity": 2228589000,
@@ -730,9 +685,7 @@
     "stock_inventory": 1473000000,
     "sum_of_current_assets": 4276000000,
     "sum_of_current_liabilities": 1971000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "total_assets": 7705000000,
     "total_equity": 4745000000,
@@ -765,9 +718,7 @@
     "stock_inventory": 929000000,
     "sum_of_current_assets": 3851000000,
     "sum_of_current_liabilities": 2032000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "total_assets": 6340000000,
     "total_equity": 1357000000,
@@ -801,9 +752,7 @@
     "stock_inventory": 3100175000,
     "sum_of_current_assets": 5211702000,
     "sum_of_current_liabilities": 3229511000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "total_assets": 7836000000,
     "total_equity": 2831912000,
@@ -836,9 +785,7 @@
     "stock_inventory": 1091000000,
     "sum_of_current_assets": 3133000000,
     "sum_of_current_liabilities": 1098000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "total_assets": 7185000000,
     "total_equity": 1876000000,
@@ -871,9 +818,7 @@
     "stock_inventory": 926244000,
     "sum_of_current_assets": 1574773000,
     "sum_of_current_liabilities": 1106637000,
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "total_assets": 2600649000,
     "total_equity": 1069422000,
@@ -904,9 +849,7 @@
     "stock_inventory": 4634000000,
     "sum_of_current_assets": 5804000000,
     "sum_of_current_liabilities": 4072000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "total_assets": 20784000000,
     "total_equity": 4549000000,
@@ -940,10 +883,7 @@
     "stock_inventory": 1279200000,
     "sum_of_current_assets": 2214400000,
     "sum_of_current_liabilities": 530900000,
-    "symbols": [
-      "KEM",
-      "SIG"
-    ],
+    "symbols": ["KEM", "SIG"],
     "timeframe": "quarterly",
     "total_assets": 2734900000,
     "total_equity": 1692700000,
@@ -976,9 +916,7 @@
     "stock_inventory": 1284000000,
     "sum_of_current_assets": 1910000000,
     "sum_of_current_liabilities": 513000000,
-    "symbols": [
-      "FL"
-    ],
+    "symbols": ["FL"],
     "timeframe": "quarterly",
     "total_assets": 3015000000,
     "total_equity": 1977000000,
@@ -1012,9 +950,7 @@
     "stock_inventory": 430777000,
     "sum_of_current_assets": 663721000,
     "sum_of_current_liabilities": 213682000,
-    "symbols": [
-      "MW"
-    ],
+    "symbols": ["MW"],
     "timeframe": "quarterly",
     "total_assets": 1222896000,
     "total_equity": 902764000,
@@ -1047,9 +983,7 @@
     "stock_inventory": 2724000000,
     "sum_of_current_assets": 4307000000,
     "sum_of_current_liabilities": 2128000000,
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "total_assets": 12086000000,
     "total_equity": 7136000000,
@@ -1083,9 +1017,7 @@
     "stock_inventory": 130238000,
     "sum_of_current_assets": 556657000,
     "sum_of_current_liabilities": 210706000,
-    "symbols": [
-      "CHS"
-    ],
+    "symbols": ["CHS"],
     "timeframe": "quarterly",
     "total_assets": 1296001000,
     "total_equity": 932495000,
@@ -1119,11 +1051,7 @@
     "stock_inventory": 352819000,
     "sum_of_current_assets": 1031443000,
     "sum_of_current_liabilities": 397082000,
-    "symbols": [
-      "AEO",
-      "AEOS",
-      "AFAM"
-    ],
+    "symbols": ["AEO", "AEOS", "AFAM"],
     "timeframe": "quarterly",
     "total_assets": 2010314000,
     "total_equity": 1469857000,
@@ -1153,9 +1081,7 @@
     "stock_inventory": 741200000,
     "sum_of_current_assets": 1167000000,
     "sum_of_current_liabilities": 441900000,
-    "symbols": [
-      "DLTR"
-    ],
+    "symbols": ["DLTR"],
     "timeframe": "quarterly",
     "total_assets": 2135100000,
     "total_equity": 1310400000,
@@ -1186,9 +1112,7 @@
     "stock_inventory": 262986000,
     "sum_of_current_assets": 537119000,
     "sum_of_current_liabilities": 220337000,
-    "symbols": [
-      "PLCE"
-    ],
+    "symbols": ["PLCE"],
     "timeframe": "quarterly",
     "total_assets": 922874000,
     "total_equity": 583233000,
@@ -1220,9 +1144,7 @@
     "stock_inventory": 3258000000,
     "sum_of_current_assets": 6272000000,
     "sum_of_current_liabilities": 3173000000,
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "total_assets": 12169000000,
     "total_equity": 4536000000,
@@ -1253,9 +1175,7 @@
     "stock_inventory": 9377000000,
     "sum_of_current_assets": 11884000000,
     "sum_of_current_liabilities": 9244000000,
-    "symbols": [
-      "SHLD"
-    ],
+    "symbols": ["SHLD"],
     "timeframe": "quarterly",
     "total_assets": 25760000000,
     "total_equity": 9647000000,
@@ -1290,11 +1210,7 @@
     "stock_inventory": 1099325000,
     "sum_of_current_assets": 1444335000,
     "sum_of_current_liabilities": 1095651000,
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "total_assets": 4282136000,
     "total_equity": 2577185000,
@@ -1328,9 +1244,7 @@
     "stock_inventory": 302286000,
     "sum_of_current_assets": 885591000,
     "sum_of_current_liabilities": 358390000,
-    "symbols": [
-      "PVH"
-    ],
+    "symbols": ["PVH"],
     "timeframe": "quarterly",
     "total_assets": 2233188000,
     "total_equity": 1054896000,
@@ -1364,9 +1278,7 @@
     "stock_inventory": 517028000,
     "sum_of_current_assets": 913877000,
     "sum_of_current_liabilities": 425947000,
-    "symbols": [
-      "WSM"
-    ],
+    "symbols": ["WSM"],
     "timeframe": "quarterly",
     "total_assets": 1853860000,
     "total_equity": 1115691000,
@@ -1402,9 +1314,7 @@
     "stock_inventory": 5738000000,
     "sum_of_current_assets": 9304000000,
     "sum_of_current_liabilities": 8964000000,
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "total_assets": 17191000000,
     "total_equity": 5899000000,
@@ -1439,9 +1349,7 @@
     "stock_inventory": 435000000,
     "sum_of_current_assets": 880700000,
     "sum_of_current_liabilities": 498900000,
-    "symbols": [
-      "SCHL"
-    ],
+    "symbols": ["SCHL"],
     "timeframe": "quarterly",
     "total_assets": 1670800000,
     "total_equity": 767500000,
@@ -1477,9 +1385,7 @@
     "stock_inventory": 1747773000,
     "sum_of_current_assets": 5284549000,
     "sum_of_current_liabilities": 3004993000,
-    "symbols": [
-      "SYY"
-    ],
+    "symbols": ["SYY"],
     "timeframe": "quarterly",
     "total_assets": 10352439000,
     "total_equity": 3714358000,
@@ -1514,9 +1420,7 @@
     "stock_inventory": 985881000,
     "sum_of_current_assets": 1616508000,
     "sum_of_current_liabilities": 627337000,
-    "symbols": [
-      "UVV"
-    ],
+    "symbols": ["UVV"],
     "timeframe": "quarterly",
     "total_assets": 2296482000,
     "total_equity": 1121472000,
@@ -1551,9 +1455,7 @@
     "stock_inventory": 14090000,
     "sum_of_current_assets": 652380000,
     "sum_of_current_liabilities": 614880000,
-    "symbols": [
-      "EDMC"
-    ],
+    "symbols": ["EDMC"],
     "timeframe": "quarterly",
     "total_assets": 4399736000,
     "total_equity": 1502943000,
@@ -1587,10 +1489,7 @@
     "stock_inventory": 8424000000,
     "sum_of_current_assets": 10431000000,
     "sum_of_current_liabilities": 8489000000,
-    "symbols": [
-      "LOW",
-      "LOWw"
-    ],
+    "symbols": ["LOW", "LOWw"],
     "timeframe": "quarterly",
     "total_assets": 34348000000,
     "total_equity": 19419000000,
@@ -1622,9 +1521,7 @@
     "stock_inventory": 9382000000,
     "sum_of_current_assets": 19583000000,
     "sum_of_current_liabilities": 12398000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "total_assets": 45979000000,
     "total_equity": 14971000000,
@@ -1656,10 +1553,7 @@
     "stock_inventory": 1752076000,
     "sum_of_current_assets": 1949136000,
     "sum_of_current_liabilities": 1080865000,
-    "symbols": [
-      "DDS",
-      "DDT"
-    ],
+    "symbols": ["DDS", "DDT"],
     "timeframe": "quarterly",
     "total_assets": 4852067000,
     "total_equity": 2233966000,
@@ -1691,9 +1585,7 @@
     "stock_inventory": 1999000000,
     "sum_of_current_assets": 5054000000,
     "sum_of_current_liabilities": 2474000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "total_assets": 8430000000,
     "total_equity": 4981000000,
@@ -1726,9 +1618,7 @@
     "stock_inventory": 1193000000,
     "sum_of_current_assets": 4007000000,
     "sum_of_current_liabilities": 2111000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "total_assets": 6516000000,
     "total_equity": 1430000000,
@@ -1760,9 +1650,7 @@
     "stock_inventory": 1541888000,
     "sum_of_current_assets": 2206575000,
     "sum_of_current_liabilities": 498808000,
-    "symbols": [
-      "TIF"
-    ],
+    "symbols": ["TIF"],
     "timeframe": "quarterly",
     "total_assets": 3219229000,
     "total_equity": 1710644000,
@@ -1796,9 +1684,7 @@
     "stock_inventory": 38129000000,
     "sum_of_current_assets": 51516000000,
     "sum_of_current_liabilities": 59117000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "total_assets": 172502000000,
     "total_equity": 69234000000,
@@ -1833,10 +1719,7 @@
     "stock_inventory": 105741000,
     "sum_of_current_assets": 415886000,
     "sum_of_current_liabilities": 481597000,
-    "symbols": [
-      "JW.A",
-      "JW.B"
-    ],
+    "symbols": ["JW.A", "JW.B"],
     "timeframe": "quarterly",
     "total_assets": 2318798000,
     "total_equity": 702962000,
@@ -1871,9 +1754,7 @@
     "stock_inventory": 3267667000,
     "sum_of_current_assets": 5330657000,
     "sum_of_current_liabilities": 3246140000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "total_assets": 7983064000,
     "total_equity": 2940507000,
@@ -1902,9 +1783,7 @@
     "stock_inventory": 1426000000,
     "sum_of_current_assets": 2914000000,
     "sum_of_current_liabilities": 1237000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "total_assets": 6935000000,
     "total_equity": 1865000000,
@@ -1936,9 +1815,7 @@
     "stock_inventory": 1014638000,
     "sum_of_current_assets": 1714060000,
     "sum_of_current_liabilities": 1207872000,
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "total_assets": 2741470000,
     "total_equity": 1107193000,
@@ -1969,9 +1846,7 @@
     "stock_inventory": 6406000000,
     "sum_of_current_assets": 7513000000,
     "sum_of_current_liabilities": 5810000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "total_assets": 22313000000,
     "total_equity": 4494000000,
@@ -2005,9 +1880,7 @@
     "stock_inventory": 62779000,
     "sum_of_current_assets": 157441000,
     "sum_of_current_liabilities": 337859000,
-    "symbols": [
-      "MTN"
-    ],
+    "symbols": ["MTN"],
     "timeframe": "quarterly",
     "total_assets": 1870130000,
     "total_equity": 738224000,
@@ -2042,10 +1915,7 @@
     "stock_inventory": 1306000000,
     "sum_of_current_assets": 2268200000,
     "sum_of_current_liabilities": 589100000,
-    "symbols": [
-      "KEM",
-      "SIG"
-    ],
+    "symbols": ["KEM", "SIG"],
     "timeframe": "quarterly",
     "total_assets": 2872300000,
     "total_equity": 1594300000,
@@ -2078,9 +1948,7 @@
     "stock_inventory": 1228000000,
     "sum_of_current_assets": 1882000000,
     "sum_of_current_liabilities": 478000000,
-    "symbols": [
-      "FL"
-    ],
+    "symbols": ["FL"],
     "timeframe": "quarterly",
     "total_assets": 2963000000,
     "total_equity": 1982000000,
@@ -2114,9 +1982,7 @@
     "stock_inventory": 476760000,
     "sum_of_current_assets": 740346000,
     "sum_of_current_liabilities": 252199000,
-    "symbols": [
-      "MW"
-    ],
+    "symbols": ["MW"],
     "timeframe": "quarterly",
     "total_assets": 1282956000,
     "total_equity": 924685000,
@@ -2149,9 +2015,7 @@
     "stock_inventory": 3807000000,
     "sum_of_current_assets": 5587000000,
     "sum_of_current_liabilities": 3020000000,
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "total_assets": 13323000000,
     "total_equity": 7395000000,
@@ -2185,9 +2049,7 @@
     "stock_inventory": 160030000,
     "sum_of_current_assets": 621586000,
     "sum_of_current_liabilities": 239824000,
-    "symbols": [
-      "CHS"
-    ],
+    "symbols": ["CHS"],
     "timeframe": "quarterly",
     "total_assets": 1352613000,
     "total_equity": 962251000,
@@ -2218,9 +2080,7 @@
     "stock_inventory": 234521000,
     "sum_of_current_assets": 737495000,
     "sum_of_current_liabilities": 182214000,
-    "symbols": [
-      "URBN"
-    ],
+    "symbols": ["URBN"],
     "timeframe": "quarterly",
     "total_assets": 1541147000,
     "total_equity": 1215260000,
@@ -2254,11 +2114,7 @@
     "stock_inventory": 425415000,
     "sum_of_current_assets": 1094452000,
     "sum_of_current_liabilities": 420997000,
-    "symbols": [
-      "AEO",
-      "AEOS",
-      "AFAM"
-    ],
+    "symbols": ["AEO", "AEOS", "AFAM"],
     "timeframe": "quarterly",
     "total_assets": 2095908000,
     "total_equity": 1523305000,
@@ -2288,9 +2144,7 @@
     "stock_inventory": 846200000,
     "sum_of_current_assets": 1220700000,
     "sum_of_current_liabilities": 468600000,
-    "symbols": [
-      "DLTR"
-    ],
+    "symbols": ["DLTR"],
     "timeframe": "quarterly",
     "total_assets": 2180500000,
     "total_equity": 1324900000,
@@ -2324,9 +2178,7 @@
     "stock_inventory": 194028000,
     "sum_of_current_assets": 628567000,
     "sum_of_current_liabilities": 293497000,
-    "symbols": [
-      "TTWO"
-    ],
+    "symbols": ["TTWO"],
     "timeframe": "quarterly",
     "total_assets": 1007128000,
     "total_equity": 545626000,
@@ -2356,9 +2208,7 @@
     "stock_inventory": 250599000,
     "sum_of_current_assets": 457583000,
     "sum_of_current_liabilities": 167498000,
-    "symbols": [
-      "PLCE"
-    ],
+    "symbols": ["PLCE"],
     "timeframe": "quarterly",
     "total_assets": 835316000,
     "total_equity": 553234000,
@@ -2390,9 +2240,7 @@
     "stock_inventory": 4018000000,
     "sum_of_current_assets": 6920000000,
     "sum_of_current_liabilities": 3673000000,
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "total_assets": 12798000000,
     "total_equity": 4588000000,
@@ -2423,9 +2271,7 @@
     "stock_inventory": 10805000000,
     "sum_of_current_assets": 13512000000,
     "sum_of_current_liabilities": 11266000000,
-    "symbols": [
-      "SHLD"
-    ],
+    "symbols": ["SHLD"],
     "timeframe": "quarterly",
     "total_assets": 27175000000,
     "total_equity": 9325000000,
@@ -2460,11 +2306,7 @@
     "stock_inventory": 1733962000,
     "sum_of_current_assets": 2194094000,
     "sum_of_current_liabilities": 1838337000,
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "total_assets": 5083323000,
     "total_equity": 2686738000,
@@ -2498,9 +2340,7 @@
     "stock_inventory": 281856000,
     "sum_of_current_assets": 957794000,
     "sum_of_current_liabilities": 356294000,
-    "symbols": [
-      "PVH"
-    ],
+    "symbols": ["PVH"],
     "timeframe": "quarterly",
     "total_assets": 2303985000,
     "total_equity": 1143452000,
@@ -2534,9 +2374,7 @@
     "stock_inventory": 545042000,
     "sum_of_current_assets": 1001600000,
     "sum_of_current_liabilities": 476737000,
-    "symbols": [
-      "WSM"
-    ],
+    "symbols": ["WSM"],
     "timeframe": "quarterly",
     "total_assets": 1911692000,
     "total_equity": 1118702000,
@@ -2572,9 +2410,7 @@
     "stock_inventory": 8978000000,
     "sum_of_current_assets": 13267000000,
     "sum_of_current_liabilities": 12678000000,
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "total_assets": 21100000000,
     "total_equity": 6124000000,
@@ -2609,9 +2445,7 @@
     "stock_inventory": 374700000,
     "sum_of_current_assets": 961400000,
     "sum_of_current_liabilities": 498200000,
-    "symbols": [
-      "SCHL"
-    ],
+    "symbols": ["SCHL"],
     "timeframe": "quarterly",
     "total_assets": 1707700000,
     "total_equity": 827100000,
@@ -2647,9 +2481,7 @@
     "stock_inventory": 1790327000,
     "sum_of_current_assets": 5016790000,
     "sum_of_current_liabilities": 2711022000,
-    "symbols": [
-      "SYY"
-    ],
+    "symbols": ["SYY"],
     "timeframe": "quarterly",
     "total_assets": 10204245000,
     "total_equity": 3930287000,
@@ -2684,9 +2516,7 @@
     "stock_inventory": 821424000,
     "sum_of_current_assets": 1529777000,
     "sum_of_current_liabilities": 454704000,
-    "symbols": [
-      "UVV"
-    ],
+    "symbols": ["UVV"],
     "timeframe": "quarterly",
     "total_assets": 2224286000,
     "total_equity": 1151483000,
@@ -2720,10 +2550,7 @@
     "stock_inventory": 63515000,
     "sum_of_current_assets": 257895000,
     "sum_of_current_liabilities": 58869000,
-    "symbols": [
-      "EZPW",
-      "UAHC"
-    ],
+    "symbols": ["EZPW", "UAHC"],
     "timeframe": "quarterly",
     "total_assets": 526804000,
     "total_equity": 442595000,
@@ -2758,9 +2585,7 @@
     "stock_inventory": 12572000,
     "sum_of_current_assets": 507790000,
     "sum_of_current_liabilities": 353584000,
-    "symbols": [
-      "EDMC"
-    ],
+    "symbols": ["EDMC"],
     "timeframe": "quarterly",
     "total_assets": 4258283000,
     "total_equity": 1932778000,
@@ -2794,9 +2619,7 @@
     "stock_inventory": 387400000,
     "sum_of_current_assets": 1586300000,
     "sum_of_current_liabilities": 1386300000,
-    "symbols": [
-      "UGI"
-    ],
+    "symbols": ["UGI"],
     "timeframe": "quarterly",
     "total_assets": 6452700000,
     "total_equity": 1952400000,
@@ -2830,9 +2653,7 @@
     "stock_inventory": 173236000,
     "sum_of_current_assets": 509629000,
     "sum_of_current_liabilities": 157168000,
-    "symbols": [
-      "BECN"
-    ],
+    "symbols": ["BECN"],
     "timeframe": "quarterly",
     "total_assets": 967230000,
     "total_equity": 437511000,
@@ -2865,9 +2686,7 @@
     "stock_inventory": 587500000,
     "sum_of_current_assets": 1239600000,
     "sum_of_current_liabilities": 697300000,
-    "symbols": [
-      "SMG"
-    ],
+    "symbols": ["SMG"],
     "timeframe": "quarterly",
     "total_assets": 2286000000,
     "total_equity": 538500000,
@@ -2903,9 +2722,7 @@
     "stock_inventory": 1519578000,
     "sum_of_current_assets": 1845449000,
     "sum_of_current_liabilities": 1206500000,
-    "symbols": [
-      "DG"
-    ],
+    "symbols": ["DG"],
     "timeframe": "annual",
     "total_assets": 8863519000,
     "total_equity": 3390298000,
@@ -2940,9 +2757,7 @@
     "stock_inventory": 1519578000,
     "sum_of_current_assets": 1845449000,
     "sum_of_current_liabilities": 1206500000,
-    "symbols": [
-      "DG"
-    ],
+    "symbols": ["DG"],
     "timeframe": "quarterly",
     "total_assets": 8863519000,
     "total_equity": 3390298000,
@@ -2976,10 +2791,7 @@
     "stock_inventory": 8249000000,
     "sum_of_current_assets": 9732000000,
     "sum_of_current_liabilities": 7355000000,
-    "symbols": [
-      "LOW",
-      "LOWw"
-    ],
+    "symbols": ["LOW", "LOWw"],
     "timeframe": "quarterly",
     "total_assets": 33005000000,
     "total_equity": 19069000000,
@@ -3013,10 +2825,7 @@
     "stock_inventory": 8249000000,
     "sum_of_current_assets": 9732000000,
     "sum_of_current_liabilities": 7355000000,
-    "symbols": [
-      "LOW",
-      "LOWw"
-    ],
+    "symbols": ["LOW", "LOWw"],
     "timeframe": "annual",
     "total_assets": 33005000000,
     "total_equity": 19069000000,
@@ -3049,9 +2858,7 @@
     "stock_inventory": 191071000,
     "sum_of_current_assets": 593298000,
     "sum_of_current_liabilities": 319892000,
-    "symbols": [
-      "TTC"
-    ],
+    "symbols": ["TTC"],
     "timeframe": "quarterly",
     "total_assets": 884634000,
     "total_equity": 325250000,
@@ -3083,9 +2890,7 @@
     "stock_inventory": 7179000000,
     "sum_of_current_assets": 18424000000,
     "sum_of_current_liabilities": 11327000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "annual",
     "total_assets": 44533000000,
     "total_equity": 15347000000,
@@ -3117,9 +2922,7 @@
     "stock_inventory": 7179000000,
     "sum_of_current_assets": 18424000000,
     "sum_of_current_liabilities": 11327000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "total_assets": 44533000000,
     "total_equity": 15347000000,
@@ -3151,10 +2954,7 @@
     "stock_inventory": 1300680000,
     "sum_of_current_assets": 1749529000,
     "sum_of_current_liabilities": 769022000,
-    "symbols": [
-      "DDS",
-      "DDT"
-    ],
+    "symbols": ["DDS", "DDT"],
     "timeframe": "quarterly",
     "total_assets": 4606327000,
     "total_equity": 2304103000,
@@ -3187,10 +2987,7 @@
     "stock_inventory": 1300680000,
     "sum_of_current_assets": 1749529000,
     "sum_of_current_liabilities": 769022000,
-    "symbols": [
-      "DDS",
-      "DDT"
-    ],
+    "symbols": ["DDS", "DDT"],
     "timeframe": "annual",
     "total_assets": 4606327000,
     "total_equity": 2304103000,
@@ -3222,9 +3019,7 @@
     "stock_inventory": 1477000000,
     "sum_of_current_assets": 4664000000,
     "sum_of_current_liabilities": 2131000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "total_assets": 7985000000,
     "total_equity": 4891000000,
@@ -3256,9 +3051,7 @@
     "stock_inventory": 1477000000,
     "sum_of_current_assets": 4664000000,
     "sum_of_current_liabilities": 2131000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "annual",
     "total_assets": 7985000000,
     "total_equity": 4891000000,
@@ -3293,9 +3086,7 @@
     "stock_inventory": 4935000000,
     "sum_of_current_assets": 6829000000,
     "sum_of_current_liabilities": 7727000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "annual",
     "total_assets": 23126000000,
     "total_equity": 4926000000,
@@ -3330,9 +3121,7 @@
     "stock_inventory": 4935000000,
     "sum_of_current_assets": 6829000000,
     "sum_of_current_liabilities": 7727000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "quarterly",
     "total_assets": 23126000000,
     "total_equity": 4926000000,
@@ -3365,9 +3154,7 @@
     "stock_inventory": 898000000,
     "sum_of_current_assets": 4054000000,
     "sum_of_current_liabilities": 2014000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "annual",
     "total_assets": 6579000000,
     "total_equity": 1572000000,
@@ -3399,9 +3186,7 @@
     "stock_inventory": 898000000,
     "sum_of_current_assets": 4054000000,
     "sum_of_current_liabilities": 2014000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "total_assets": 6579000000,
     "total_equity": 1572000000,
@@ -3434,9 +3219,7 @@
     "stock_inventory": 2532318000,
     "sum_of_current_assets": 4803856000,
     "sum_of_current_liabilities": 2894986000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "total_assets": 7463977000,
     "total_equity": 2889276000,
@@ -3469,9 +3252,7 @@
     "stock_inventory": 2532318000,
     "sum_of_current_assets": 4803856000,
     "sum_of_current_liabilities": 2894986000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "annual",
     "total_assets": 7463977000,
     "total_equity": 2889276000,
@@ -3504,9 +3285,7 @@
     "stock_inventory": 1037000000,
     "sum_of_current_assets": 3250000000,
     "sum_of_current_liabilities": 1322000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "total_assets": 7173000000,
     "total_equity": 2184000000,
@@ -3539,9 +3318,7 @@
     "stock_inventory": 1037000000,
     "sum_of_current_assets": 3250000000,
     "sum_of_current_liabilities": 1322000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "annual",
     "total_assets": 7173000000,
     "total_equity": 2184000000,
@@ -3573,9 +3350,7 @@
     "research_development_expenses": 1518000000,
     "revenue": 15026000000,
     "sales_general_admin_expenses": 4608000000,
-    "symbols": [
-      "JNJ"
-    ],
+    "symbols": ["JNJ"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 2765900000,
     "weighted_average_shares_diluted": 2789800000
@@ -3604,9 +3379,7 @@
     "research_development_expenses": 301797000,
     "revenue": 664231000,
     "sales_general_admin_expenses": 118864000,
-    "symbols": [
-      "NVDA"
-    ],
+    "symbols": ["NVDA"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 21692280000,
     "weighted_average_shares_diluted": 21692280000
@@ -3637,9 +3410,7 @@
     "reporting_period_end": "2009-04-30",
     "revenue": 94242000000,
     "sales_general_admin_expenses": 18637000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 11760000000,
     "weighted_average_shares_diluted": 11790000000
@@ -3666,9 +3437,7 @@
     "research_development_expenses": 121500000,
     "revenue": 425800000,
     "sales_general_admin_expenses": 233900000,
-    "symbols": [
-      "ADSK"
-    ],
+    "symbols": ["ADSK"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 227100000,
     "weighted_average_shares_diluted": 227100000
@@ -3699,9 +3468,7 @@
     "research_development_expenses": 31584000,
     "revenue": 304924000,
     "sales_general_admin_expenses": 181417000,
-    "symbols": [
-      "CRM"
-    ],
+    "symbols": ["CRM"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 492824000,
     "weighted_average_shares_diluted": 501396000
@@ -3731,9 +3498,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 14833000000,
     "sales_general_admin_expenses": 3015000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 752200000,
     "weighted_average_shares_diluted": 753000000
@@ -3760,9 +3525,7 @@
     "pre_tax_income": 353000000,
     "reporting_period_end": "2009-05-02",
     "revenue": 3127000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 695000000,
     "weighted_average_shares_diluted": 697000000
@@ -3790,9 +3553,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 1792000000,
     "sales_general_admin_expenses": 539000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 215900000,
     "weighted_average_shares_diluted": 217400000
@@ -3820,9 +3581,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 4354224000,
     "sales_general_admin_expenses": 735057000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1650176000,
     "weighted_average_shares_diluted": 1727680000
@@ -3850,9 +3609,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 1725000000,
     "sales_general_admin_expenses": 483000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 321000000,
     "weighted_average_shares_diluted": 323000000
@@ -3880,9 +3637,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 1691599000,
     "sales_general_admin_expenses": 272030000,
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 498768000,
     "weighted_average_shares_diluted": 506256000
@@ -3911,9 +3666,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 5199000000,
     "sales_general_admin_expenses": 1956000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 419047619,
     "weighted_average_shares_diluted": 419047619
@@ -3942,9 +3695,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 3638000000,
     "sales_general_admin_expenses": 961000000,
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 305000000,
     "weighted_average_shares_diluted": 306000000
@@ -3973,9 +3724,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 3884000000,
     "sales_general_admin_expenses": 1255000000,
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 227272727,
     "weighted_average_shares_diluted": 227272727
@@ -4005,11 +3754,7 @@
     "reporting_period_end": "2009-05-02",
     "revenue": 1980753000,
     "sales_general_admin_expenses": 375832000,
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 723685600,
     "weighted_average_shares_diluted": 739076800.0000001
@@ -4039,9 +3784,7 @@
     "reporting_period_end": "2009-05-03",
     "revenue": 16175000000,
     "sales_general_admin_expenses": 4042000000,
-    "symbols": [
-      "HD"
-    ],
+    "symbols": ["HD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1683000000,
     "weighted_average_shares_diluted": 1689000000
@@ -4071,9 +3814,7 @@
     "reporting_period_end": "2009-05-23",
     "revenue": 22789000000,
     "sales_general_admin_expenses": 4026000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1296000000,
     "weighted_average_shares_diluted": 1302000000
@@ -4103,9 +3844,7 @@
     "reporting_period_end": "2009-05-30",
     "revenue": 10095000000,
     "sales_general_admin_expenses": 2209000000,
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 415200000,
     "weighted_average_shares_diluted": 425700000
@@ -4133,9 +3872,7 @@
     "reporting_period_end": "2009-05-30",
     "revenue": 1694340000,
     "sales_general_admin_expenses": 524514000,
-    "symbols": [
-      "BBBY"
-    ],
+    "symbols": ["BBBY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 256942000,
     "weighted_average_shares_diluted": 258764000
@@ -4165,9 +3902,7 @@
     "research_development_expenses": 6777000,
     "revenue": 154087000,
     "sales_general_admin_expenses": 49839000,
-    "symbols": [
-      "HAE"
-    ],
+    "symbols": ["HAE"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 51316000,
     "weighted_average_shares_diluted": 52402000
@@ -4196,9 +3931,7 @@
     "research_development_expenses": 83233000,
     "revenue": 376235000,
     "sales_general_admin_expenses": 73556000,
-    "symbols": [
-      "XLNX"
-    ],
+    "symbols": ["XLNX"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 275523000,
     "weighted_average_shares_diluted": 276258000
@@ -4228,9 +3961,7 @@
     "research_development_expenses": 35633000,
     "revenue": 212540000,
     "sales_general_admin_expenses": 24780000,
-    "symbols": [
-      "RFMD"
-    ],
+    "symbols": ["RFMD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 265635000,
     "weighted_average_shares_diluted": 269302000
@@ -4260,9 +3991,7 @@
     "reporting_period_end": "2009-06-27",
     "revenue": 1023700000,
     "sales_general_admin_expenses": 478900000,
-    "symbols": [
-      "RL"
-    ],
+    "symbols": ["RL"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 99200000,
     "weighted_average_shares_diluted": 101500000
@@ -4290,9 +4019,7 @@
     "reporting_period_end": "2009-06-27",
     "revenue": 63732000,
     "sales_general_admin_expenses": 11619000,
-    "symbols": [
-      "ROLL"
-    ],
+    "symbols": ["ROLL"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 21582607,
     "weighted_average_shares_diluted": 21691059
@@ -4322,9 +4049,7 @@
     "research_development_expenses": 1638000000,
     "revenue": 15239000000,
     "sales_general_admin_expenses": 4797000000,
-    "symbols": [
-      "JNJ"
-    ],
+    "symbols": ["JNJ"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 2756200000,
     "weighted_average_shares_diluted": 2782000000
@@ -4354,9 +4079,7 @@
     "research_development_expenses": 48196000,
     "revenue": 155784000,
     "sales_general_admin_expenses": 53069000,
-    "symbols": [
-      "CY"
-    ],
+    "symbols": ["CY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 141107000,
     "weighted_average_shares_diluted": 141107000
@@ -4387,12 +4110,7 @@
     "research_development_expenses": 6937000,
     "revenue": 299341000,
     "sales_general_admin_expenses": 42775000,
-    "symbols": [
-      "SPWR",
-      "SPWRA",
-      "SPWRB",
-      "SPWRV"
-    ],
+    "symbols": ["SPWR", "SPWRA", "SPWRB", "SPWRV"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 90873000,
     "weighted_average_shares_diluted": 92640000
@@ -4424,9 +4142,7 @@
     "reporting_period_end": "2009-06-28",
     "revenue": 276379000,
     "sales_general_admin_expenses": 17015000,
-    "symbols": [
-      "GEO"
-    ],
+    "symbols": ["GEO"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 76203000,
     "weighted_average_shares_diluted": 77752500
@@ -4455,9 +4171,7 @@
     "reporting_period_end": "2009-06-28",
     "revenue": 441100000,
     "sales_general_admin_expenses": 83600000,
-    "symbols": [
-      "TDY"
-    ],
+    "symbols": ["TDY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 36000000,
     "weighted_average_shares_diluted": 36600000
@@ -4487,9 +4201,7 @@
     "research_development_expenses": 33117000,
     "revenue": 161643000,
     "sales_general_admin_expenses": 41939000,
-    "symbols": [
-      "ILMN"
-    ],
+    "symbols": ["ILMN"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 123511000,
     "weighted_average_shares_diluted": 139465000
@@ -4517,9 +4229,7 @@
     "reporting_period_end": "2009-06-28",
     "revenue": 340265000,
     "sales_general_admin_expenses": 54408000,
-    "symbols": [
-      "ENS"
-    ],
+    "symbols": ["ENS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 47936401,
     "weighted_average_shares_diluted": 48454695
@@ -4551,10 +4261,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 290452000,
     "sales_general_admin_expenses": 209479000,
-    "symbols": [
-      "BRS",
-      "BRSp"
-    ],
+    "symbols": ["BRS", "BRSp"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 29133400,
     "weighted_average_shares_diluted": 35781870
@@ -4584,9 +4291,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 326609000,
     "sales_general_admin_expenses": 34388000,
-    "symbols": [
-      "TDW"
-    ],
+    "symbols": ["TDW"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1634997.6921338371,
     "weighted_average_shares_diluted": 1641340.7906590311
@@ -4617,9 +4322,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 616112000,
     "sales_general_admin_expenses": 69592000,
-    "symbols": [
-      "UVV"
-    ],
+    "symbols": ["UVV"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 24985000,
     "weighted_average_shares_diluted": 29844000
@@ -4650,11 +4353,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 613084000,
     "sales_general_admin_expenses": 514350000,
-    "symbols": [
-      "LM",
-      "LMI",
-      "PNK"
-    ],
+    "symbols": ["LM", "LMI", "PNK"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 142006000,
     "weighted_average_shares_diluted": 143126000
@@ -4683,9 +4382,7 @@
     "research_development_expenses": 312000000,
     "revenue": 644000000,
     "sales_general_admin_expenses": 230000000,
-    "symbols": [
-      "ERTS"
-    ],
+    "symbols": ["ERTS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 323000000,
     "weighted_average_shares_diluted": 323000000
@@ -4713,9 +4410,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 255981000,
     "sales_general_admin_expenses": 37643000,
-    "symbols": [
-      "ACXM"
-    ],
+    "symbols": ["ACXM"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 78667000,
     "weighted_average_shares_diluted": 79012000
@@ -4745,9 +4440,7 @@
     "research_development_expenses": 27636000,
     "revenue": 192949000,
     "sales_general_admin_expenses": 36383000,
-    "symbols": [
-      "MCHP"
-    ],
+    "symbols": ["MCHP"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 365712000,
     "weighted_average_shares_diluted": 371052000
@@ -4777,9 +4470,7 @@
     "research_development_expenses": 4528000,
     "revenue": 73000000,
     "sales_general_admin_expenses": 10885000,
-    "symbols": [
-      "AMSC"
-    ],
+    "symbols": ["AMSC"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 4378900,
     "weighted_average_shares_diluted": 4453300
@@ -4808,9 +4499,7 @@
     "research_development_expenses": 13669000,
     "revenue": 141162000,
     "sales_general_admin_expenses": 33184000,
-    "symbols": [
-      "PLT"
-    ],
+    "symbols": ["PLT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 48527,
     "weighted_average_shares_diluted": 48665
@@ -4838,10 +4527,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 127805000,
     "sales_general_admin_expenses": 4293000,
-    "symbols": [
-      "EXP",
-      "EXPw"
-    ],
+    "symbols": ["EXP", "EXPw"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 43581646,
     "weighted_average_shares_diluted": 43996589
@@ -4869,9 +4555,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 26657000000,
     "sales_general_admin_expenses": 844000000,
-    "symbols": [
-      "MCK"
-    ],
+    "symbols": ["MCK"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 270000000,
     "weighted_average_shares_diluted": 272000000
@@ -4901,9 +4585,7 @@
     "reporting_period_end": "2009-06-30",
     "revenue": 316130000,
     "sales_general_admin_expenses": 39836000,
-    "symbols": [
-      "TGI"
-    ],
+    "symbols": ["TGI"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 32864000,
     "weighted_average_shares_diluted": 33222000
@@ -4932,9 +4614,7 @@
     "research_development_expenses": 31360000,
     "revenue": 326110000,
     "sales_general_admin_expenses": 80119000,
-    "symbols": [
-      "LOGI"
-    ],
+    "symbols": ["LOGI"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 179751000,
     "weighted_average_shares_diluted": 179751000
@@ -4965,9 +4645,7 @@
     "research_development_expenses": 7619000,
     "revenue": 60246000,
     "sales_general_admin_expenses": 37318000,
-    "symbols": [
-      "CVLT"
-    ],
+    "symbols": ["CVLT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 41646000,
     "weighted_average_shares_diluted": 43764000
@@ -4995,9 +4673,7 @@
     "reporting_period_end": "2009-07-03",
     "revenue": 1220600000,
     "sales_general_admin_expenses": 235200000,
-    "symbols": [
-      "AXE"
-    ],
+    "symbols": ["AXE"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 35500000,
     "weighted_average_shares_diluted": 35500000
@@ -5029,9 +4705,7 @@
     "research_development_expenses": 7003000,
     "revenue": 158408000,
     "sales_general_admin_expenses": 26916000,
-    "symbols": [
-      "VSAT"
-    ],
+    "symbols": ["VSAT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 31198000,
     "weighted_average_shares_diluted": 32683000
@@ -5060,9 +4734,7 @@
     "reporting_period_end": "2009-07-03",
     "revenue": 5782679000,
     "sales_general_admin_expenses": 201692000,
-    "symbols": [
-      "FLEX"
-    ],
+    "symbols": ["FLEX"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 810174000,
     "weighted_average_shares_diluted": 810174000
@@ -5092,9 +4764,7 @@
     "research_development_expenses": 25812000,
     "revenue": 438270000,
     "sales_general_admin_expenses": 124039000,
-    "symbols": [
-      "PKI"
-    ],
+    "symbols": ["PKI"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 116063000,
     "weighted_average_shares_diluted": 116268000
@@ -5123,9 +4793,7 @@
     "research_development_expenses": 10591000,
     "revenue": 66317000,
     "sales_general_admin_expenses": 16741000,
-    "symbols": [
-      "SMTC"
-    ],
+    "symbols": ["SMTC"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 60493000,
     "weighted_average_shares_diluted": 61044000
@@ -5154,10 +4822,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 263218000,
     "sales_general_admin_expenses": 103217000,
-    "symbols": [
-      "HRB",
-      "HRBw"
-    ],
+    "symbols": ["HRB", "HRBw"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 334533000,
     "weighted_average_shares_diluted": 334533000
@@ -5187,9 +4852,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 123288000,
     "sales_general_admin_expenses": 118439000,
-    "symbols": [
-      "KFY"
-    ],
+    "symbols": ["KFY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 43776000,
     "weighted_average_shares_diluted": 43776000
@@ -5219,10 +4882,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 13844000000,
     "sales_general_admin_expenses": 3123000000,
-    "symbols": [
-      "LOW",
-      "LOWw"
-    ],
+    "symbols": ["LOW", "LOWw"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1464000000,
     "weighted_average_shares_diluted": 1466000000
@@ -5252,10 +4912,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 1051526000,
     "sales_general_admin_expenses": 201177000,
-    "symbols": [
-      "SJM",
-      "SJMw"
-    ],
+    "symbols": ["SJM", "SJMw"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 118664653,
     "weighted_average_shares_diluted": 118664653
@@ -5283,9 +4940,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 612493000,
     "sales_general_admin_expenses": 247898000,
-    "symbols": [
-      "TIF"
-    ],
+    "symbols": ["TIF"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 124081000,
     "weighted_average_shares_diluted": 124523000
@@ -5316,9 +4971,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 100876000000,
     "sales_general_admin_expenses": 19891000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 11673000000,
     "weighted_average_shares_diluted": 11700000000
@@ -5348,10 +5001,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 388375000,
     "sales_general_admin_expenses": 202113000,
-    "symbols": [
-      "JW.A",
-      "JW.B"
-    ],
+    "symbols": ["JW.A", "JW.B"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 58169000,
     "weighted_average_shares_diluted": 59123000
@@ -5380,9 +5030,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 1187940000,
     "sales_general_admin_expenses": 132358000,
-    "symbols": [
-      "CASY"
-    ],
+    "symbols": ["CASY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 50863579,
     "weighted_average_shares_diluted": 50996302
@@ -5411,9 +5059,7 @@
     "research_development_expenses": 109800000,
     "revenue": 414900000,
     "sales_general_admin_expenses": 225900000,
-    "symbols": [
-      "ADSK"
-    ],
+    "symbols": ["ADSK"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 228900000,
     "weighted_average_shares_diluted": 232300000
@@ -5440,9 +5086,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 458626000,
     "sales_general_admin_expenses": 108650000,
-    "symbols": [
-      "URBN"
-    ],
+    "symbols": ["URBN"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 167919873,
     "weighted_average_shares_diluted": 170719274
@@ -5472,9 +5116,7 @@
     "research_development_expenses": 130300000,
     "revenue": 837900000,
     "sales_general_admin_expenses": 361000000,
-    "symbols": [
-      "NTAP"
-    ],
+    "symbols": ["NTAP"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 334500000,
     "weighted_average_shares_diluted": 338900000
@@ -5505,9 +5147,7 @@
     "research_development_expenses": 31103000,
     "revenue": 316061000,
     "sales_general_admin_expenses": 192973000,
-    "symbols": [
-      "CRM"
-    ],
+    "symbols": ["CRM"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 495384000,
     "weighted_average_shares_diluted": 506264000
@@ -5536,9 +5176,7 @@
     "reporting_period_end": "2009-07-31",
     "revenue": 2749000000,
     "sales_general_admin_expenses": 159000000,
-    "symbols": [
-      "SAI"
-    ],
+    "symbols": ["SAI"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 96000000,
     "weighted_average_shares_diluted": 97000000
@@ -5568,9 +5206,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 15067000000,
     "sales_general_admin_expenses": 3136000000,
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 752000000,
     "weighted_average_shares_diluted": 754400000
@@ -5599,10 +5235,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1427771000,
     "sales_general_admin_expenses": 396721000,
-    "symbols": [
-      "DDS",
-      "DDT"
-    ],
+    "symbols": ["DDS", "DDT"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 73827000,
     "weighted_average_shares_diluted": 73827000
@@ -5630,9 +5263,7 @@
     "pre_tax_income": 376000000,
     "reporting_period_end": "2009-08-01",
     "revenue": 3245000000,
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 697000000,
     "weighted_average_shares_diluted": 700000000
@@ -5660,9 +5291,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 2232000000,
     "sales_general_admin_expenses": 608000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 216500000,
     "weighted_average_shares_diluted": 218800000
@@ -5690,9 +5319,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 4747528000,
     "sales_general_admin_expenses": 790876000,
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1695564000,
     "weighted_average_shares_diluted": 1721812000
@@ -5721,9 +5348,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 2067000000,
     "sales_general_admin_expenses": 519000000,
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 322000000,
     "weighted_average_shares_diluted": 326000000.15
@@ -5751,9 +5376,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1768636000,
     "sales_general_admin_expenses": 286158000,
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 493868000,
     "weighted_average_shares_diluted": 502632000
@@ -5784,9 +5407,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1086567000,
     "sales_general_admin_expenses": 367781000,
-    "symbols": [
-      "BIG"
-    ],
+    "symbols": ["BIG"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 81623000,
     "weighted_average_shares_diluted": 82516000
@@ -5815,9 +5436,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 5164000000,
     "sales_general_admin_expenses": 1861000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 421500000,
     "weighted_average_shares_diluted": 422100000
@@ -5846,10 +5465,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 710800000,
     "sales_general_admin_expenses": 203800000,
-    "symbols": [
-      "KEM",
-      "SIG"
-    ],
+    "symbols": ["KEM", "SIG"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 86250000,
     "weighted_average_shares_diluted": 86250000
@@ -5875,9 +5491,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1099000000,
     "sales_general_admin_expenses": 252000000,
-    "symbols": [
-      "FL"
-    ],
+    "symbols": ["FL"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 155900000,
     "weighted_average_shares_diluted": 155900000
@@ -5905,9 +5519,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 526208000,
     "sales_general_admin_expenses": 173896000,
-    "symbols": [
-      "MW"
-    ],
+    "symbols": ["MW"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 52112000,
     "weighted_average_shares_diluted": 52255000
@@ -5934,9 +5546,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 192906000,
     "sales_general_admin_expenses": 44154000,
-    "symbols": [
-      "BKE"
-    ],
+    "symbols": ["BKE"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 45640000,
     "weighted_average_shares_diluted": 46623000
@@ -5965,9 +5575,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 3806000000,
     "sales_general_admin_expenses": 966000000,
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 305000000,
     "weighted_average_shares_diluted": 306000000
@@ -5995,9 +5603,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 419915000,
     "sales_general_admin_expenses": 44869000,
-    "symbols": [
-      "CHS"
-    ],
+    "symbols": ["CHS"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 177228000,
     "weighted_average_shares_diluted": 178566000
@@ -6027,9 +5633,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 522423000,
     "sales_general_admin_expenses": 140663000,
-    "symbols": [
-      "GES"
-    ],
+    "symbols": ["GES"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 90724000,
     "weighted_average_shares_diluted": 91381000
@@ -6058,11 +5662,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 646798000,
     "sales_general_admin_expenses": 160858000,
-    "symbols": [
-      "AEO",
-      "AEOS",
-      "AFAM"
-    ],
+    "symbols": ["AEO", "AEOS", "AFAM"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 206010000,
     "weighted_average_shares_diluted": 209015000
@@ -6090,9 +5690,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1222800000,
     "sales_general_admin_expenses": 332600000,
-    "symbols": [
-      "DLTR"
-    ],
+    "symbols": ["DLTR"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 135476191,
     "weighted_average_shares_diluted": 135476191
@@ -6121,9 +5719,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 123118000,
     "sales_general_admin_expenses": 31313000,
-    "symbols": [
-      "HIBB"
-    ],
+    "symbols": ["HIBB"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 28633000,
     "weighted_average_shares_diluted": 29063000
@@ -6152,9 +5748,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 637221000,
     "sales_general_admin_expenses": 86666000,
-    "symbols": [
-      "ANF"
-    ],
+    "symbols": ["ANF"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 87878000,
     "weighted_average_shares_diluted": 87878000
@@ -6184,9 +5778,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 315676000,
     "sales_general_admin_expenses": 106093000,
-    "symbols": [
-      "PLCE"
-    ],
+    "symbols": ["PLCE"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 29552000,
     "weighted_average_shares_diluted": 29552000
@@ -6215,9 +5807,7 @@
     "research_development_expenses": 210635000,
     "revenue": 811208000,
     "sales_general_admin_expenses": 98864000,
-    "symbols": [
-      "NVDA"
-    ],
+    "symbols": ["NVDA"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 22910560000,
     "weighted_average_shares_diluted": 22910560000
@@ -6245,10 +5835,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1126767000,
     "sales_general_admin_expenses": 238745000,
-    "symbols": [
-      "DKS",
-      "DKSw"
-    ],
+    "symbols": ["DKS", "DKSw"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 112473000,
     "weighted_average_shares_diluted": 117230000
@@ -6274,9 +5861,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 3943000000,
     "sales_general_admin_expenses": 1242000000,
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 234000000,
     "weighted_average_shares_diluted": 234000000
@@ -6307,9 +5892,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 10551000000,
     "sales_general_admin_expenses": 2630000000,
-    "symbols": [
-      "SHLD"
-    ],
+    "symbols": ["SHLD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 119100000,
     "weighted_average_shares_diluted": 119100000
@@ -6339,11 +5922,7 @@
     "reporting_period_end": "2009-08-01",
     "revenue": 1738504000,
     "sales_general_admin_expenses": 384773000,
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 724398400,
     "weighted_average_shares_diluted": 738570800.0000001
@@ -6372,9 +5951,7 @@
     "reporting_period_end": "2009-08-02",
     "revenue": 529283000,
     "sales_general_admin_expenses": 214307000,
-    "symbols": [
-      "PVH"
-    ],
+    "symbols": ["PVH"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 51605000,
     "weighted_average_shares_diluted": 52194000
@@ -6402,9 +5979,7 @@
     "reporting_period_end": "2009-08-02",
     "revenue": 2715300000,
     "sales_general_admin_expenses": 183800000,
-    "symbols": [
-      "SFD"
-    ],
+    "symbols": ["SFD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 143600000,
     "weighted_average_shares_diluted": 143600000
@@ -6434,9 +6009,7 @@
     "reporting_period_end": "2009-08-02",
     "revenue": 19071000000,
     "sales_general_admin_expenses": 4121000000,
-    "symbols": [
-      "HD"
-    ],
+    "symbols": ["HD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1683000000,
     "weighted_average_shares_diluted": 1691000000
@@ -6462,9 +6035,7 @@
     "reporting_period_end": "2009-08-02",
     "revenue": 672114000,
     "sales_general_admin_expenses": 214906000,
-    "symbols": [
-      "WSM"
-    ],
+    "symbols": ["WSM"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 105719000,
     "weighted_average_shares_diluted": 107033000
@@ -6491,10 +6062,7 @@
     "reporting_period_end": "2009-08-02",
     "revenue": 97721000,
     "sales_general_admin_expenses": 30832000,
-    "symbols": [
-      "LULU",
-      "LULUV"
-    ],
+    "symbols": ["LULU", "LULUV"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 139896000,
     "weighted_average_shares_diluted": 140802000
@@ -6524,9 +6092,7 @@
     "reporting_period_end": "2009-08-15",
     "revenue": 17728000000,
     "sales_general_admin_expenses": 3085000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 1296000000,
     "weighted_average_shares_diluted": 1302000000
@@ -6554,9 +6120,7 @@
     "reporting_period_end": "2009-08-29",
     "revenue": 324000000,
     "sales_general_admin_expenses": 90800000,
-    "symbols": [
-      "MLHR"
-    ],
+    "symbols": ["MLHR"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 55164729,
     "weighted_average_shares_diluted": 56849629
@@ -6585,9 +6149,7 @@
     "reporting_period_end": "2009-08-29",
     "revenue": 6321870000,
     "sales_general_admin_expenses": 1645913000,
-    "symbols": [
-      "RAD"
-    ],
+    "symbols": ["RAD"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 880683000,
     "weighted_average_shares_diluted": 880683000
@@ -6617,9 +6179,7 @@
     "reporting_period_end": "2009-08-29",
     "revenue": 11022000000,
     "sales_general_admin_expenses": 2404000000,
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 416500000,
     "weighted_average_shares_diluted": 427000000
@@ -6647,9 +6207,7 @@
     "reporting_period_end": "2009-08-29",
     "revenue": 1914909000,
     "sales_general_admin_expenses": 551362000,
-    "symbols": [
-      "BBBY"
-    ],
+    "symbols": ["BBBY"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 257814000,
     "weighted_average_shares_diluted": 259940000
@@ -6678,9 +6236,7 @@
     "reporting_period_end": "2009-08-29",
     "revenue": 118263000,
     "sales_general_admin_expenses": 51637000,
-    "symbols": [
-      "RECN"
-    ],
+    "symbols": ["RECN"],
     "timeframe": "quarterly",
     "weighted_average_shares_basic": 45302000,
     "weighted_average_shares_diluted": 45302000
@@ -6709,9 +6265,7 @@
     "operating_cash_flow_total": 2827000000,
     "reporting_period_end": "2009-03-29",
     "short_term_debt_transactions": 2219000000,
-    "symbols": [
-      "JNJ"
-    ],
+    "symbols": ["JNJ"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -2749000000
   },
@@ -6736,9 +6290,7 @@
     "operating_cash_flow_continuing_ops": 142128000,
     "operating_cash_flow_total": 142128000,
     "reporting_period_end": "2009-04-26",
-    "symbols": [
-      "NVDA"
-    ],
+    "symbols": ["NVDA"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 144547000
   },
@@ -6768,9 +6320,7 @@
     "operating_cash_flow_total": 3571000000,
     "reporting_period_end": "2009-04-30",
     "short_term_debt_transactions": -266000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -1084000000
   },
@@ -6796,9 +6346,7 @@
     "operating_cash_flow_continuing_ops": 27200000,
     "operating_cash_flow_total": 27200000,
     "reporting_period_end": "2009-04-30",
-    "symbols": [
-      "ADSK"
-    ],
+    "symbols": ["ADSK"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -29300000
   },
@@ -6824,9 +6372,7 @@
     "operating_cash_flow_continuing_ops": 97976000,
     "operating_cash_flow_total": 97976000,
     "reporting_period_end": "2009-04-30",
-    "symbols": [
-      "CRM"
-    ],
+    "symbols": ["CRM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 39677000
   },
@@ -6852,9 +6398,7 @@
     "operating_cash_flow_continuing_ops": 999000000,
     "operating_cash_flow_total": 999000000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -412000000
   },
@@ -6880,9 +6424,7 @@
     "operating_cash_flow_continuing_ops": 202000000,
     "operating_cash_flow_total": 202000000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -150000000
   },
@@ -6908,9 +6450,7 @@
     "operating_cash_flow_total": 205000000,
     "reporting_period_end": "2009-05-02",
     "short_term_debt_transactions": -42000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 3000000
   },
@@ -6936,9 +6476,7 @@
     "operating_cash_flow_continuing_ops": 361031000,
     "operating_cash_flow_total": 361031000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 16805000
   },
@@ -6964,9 +6502,7 @@
     "operating_cash_flow_continuing_ops": -118000000,
     "operating_cash_flow_total": -118000000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -220000000
   },
@@ -6993,9 +6529,7 @@
     "operating_cash_flow_continuing_ops": 240732000,
     "operating_cash_flow_total": 240732000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 97130000
   },
@@ -7022,9 +6556,7 @@
     "operating_cash_flow_total": -3000000,
     "reporting_period_end": "2009-05-02",
     "short_term_debt_transactions": -50000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -420000000
   },
@@ -7049,9 +6581,7 @@
     "operating_cash_flow_continuing_ops": 394000000,
     "operating_cash_flow_total": 394000000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 77000000
   },
@@ -7077,9 +6607,7 @@
     "operating_cash_flow_discontinued_ops": -3000000,
     "operating_cash_flow_total": 63000000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -176000000
   },
@@ -7105,11 +6633,7 @@
     "operating_cash_flow_continuing_ops": -268720000,
     "operating_cash_flow_total": -268720000,
     "reporting_period_end": "2009-05-02",
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -402092000
   },
@@ -7135,9 +6659,7 @@
     "operating_cash_flow_continuing_ops": 1727000000,
     "operating_cash_flow_total": 1727000000,
     "reporting_period_end": "2009-05-03",
-    "symbols": [
-      "HD"
-    ],
+    "symbols": ["HD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 800000000
   },
@@ -7164,9 +6686,7 @@
     "operating_cash_flow_total": 1288000000,
     "reporting_period_end": "2009-05-23",
     "short_term_debt_transactions": -182000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 484000000
   },
@@ -7191,9 +6711,7 @@
     "operating_cash_flow_continuing_ops": -53000000,
     "operating_cash_flow_total": -53000000,
     "reporting_period_end": "2009-05-30",
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -528000000
   },
@@ -7218,9 +6736,7 @@
     "operating_cash_flow_continuing_ops": 194309000,
     "operating_cash_flow_total": 194309000,
     "reporting_period_end": "2009-05-30",
-    "symbols": [
-      "BBBY"
-    ],
+    "symbols": ["BBBY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 56430000
   },
@@ -7247,9 +6763,7 @@
     "operating_cash_flow_continuing_ops": 25706000,
     "operating_cash_flow_total": 25706000,
     "reporting_period_end": "2009-06-27",
-    "symbols": [
-      "HAE"
-    ],
+    "symbols": ["HAE"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -4157000
   },
@@ -7274,9 +6788,7 @@
     "operating_cash_flow_continuing_ops": 146967000,
     "operating_cash_flow_total": 146967000,
     "reporting_period_end": "2009-06-27",
-    "symbols": [
-      "XLNX"
-    ],
+    "symbols": ["XLNX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 59918000
   },
@@ -7301,9 +6813,7 @@
     "operating_cash_flow_continuing_ops": 3001000,
     "operating_cash_flow_total": 3001000,
     "reporting_period_end": "2009-06-27",
-    "symbols": [
-      "CRUS"
-    ],
+    "symbols": ["CRUS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -504000
   },
@@ -7330,9 +6840,7 @@
     "operating_cash_flow_total": 36391000,
     "reporting_period_end": "2009-06-27",
     "short_term_debt_transactions": 100000,
-    "symbols": [
-      "RFMD"
-    ],
+    "symbols": ["RFMD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 3063000
   },
@@ -7358,9 +6866,7 @@
     "operating_cash_flow_continuing_ops": 292300000,
     "operating_cash_flow_total": 292300000,
     "reporting_period_end": "2009-06-27",
-    "symbols": [
-      "RL"
-    ],
+    "symbols": ["RL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 163000000
   },
@@ -7386,9 +6892,7 @@
     "operating_cash_flow_continuing_ops": 16769000,
     "operating_cash_flow_total": 16769000,
     "reporting_period_end": "2009-06-27",
-    "symbols": [
-      "ROLL"
-    ],
+    "symbols": ["ROLL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 10293000
   },
@@ -7416,9 +6920,7 @@
     "operating_cash_flow_total": 3363000000,
     "reporting_period_end": "2009-06-28",
     "short_term_debt_transactions": -468000000,
-    "symbols": [
-      "JNJ"
-    ],
+    "symbols": ["JNJ"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -169000000
   },
@@ -7446,9 +6948,7 @@
     "operating_cash_flow_total": 62761000,
     "reporting_period_end": "2009-06-28",
     "short_term_debt_transactions": -4264000,
-    "symbols": [
-      "ENS"
-    ],
+    "symbols": ["ENS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 40380000
   },
@@ -7475,10 +6975,7 @@
     "operating_cash_flow_continuing_ops": 34980000,
     "operating_cash_flow_total": 34980000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "BRS",
-      "BRSp"
-    ],
+    "symbols": ["BRS", "BRSp"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -9382000
   },
@@ -7504,9 +7001,7 @@
     "operating_cash_flow_continuing_ops": 70415000,
     "operating_cash_flow_total": 70415000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "TDW"
-    ],
+    "symbols": ["TDW"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -31675000
   },
@@ -7534,9 +7029,7 @@
     "operating_cash_flow_total": -51724000,
     "reporting_period_end": "2009-06-30",
     "short_term_debt_transactions": -3124000,
-    "symbols": [
-      "UVV"
-    ],
+    "symbols": ["UVV"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -126603000
   },
@@ -7563,11 +7056,7 @@
     "operating_cash_flow_continuing_ops": 503865000,
     "operating_cash_flow_total": 503865000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "LM",
-      "LMI",
-      "PNK"
-    ],
+    "symbols": ["LM", "LMI", "PNK"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 423067000
   },
@@ -7593,9 +7082,7 @@
     "operating_cash_flow_continuing_ops": -328000000,
     "operating_cash_flow_total": -328000000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "ERTS"
-    ],
+    "symbols": ["ERTS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -185000000
   },
@@ -7621,9 +7108,7 @@
     "operating_cash_flow_continuing_ops": 16166000,
     "operating_cash_flow_total": 16166000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "ACXM"
-    ],
+    "symbols": ["ACXM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -33507000
   },
@@ -7649,9 +7134,7 @@
     "operating_cash_flow_continuing_ops": -14136000,
     "operating_cash_flow_total": -14136000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "AMSC"
-    ],
+    "symbols": ["AMSC"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -20168000
   },
@@ -7678,9 +7161,7 @@
     "operating_cash_flow_continuing_ops": 37764000,
     "operating_cash_flow_total": 37764000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "PLT"
-    ],
+    "symbols": ["PLT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 16050000
   },
@@ -7706,10 +7187,7 @@
     "operating_cash_flow_total": 19764000,
     "reporting_period_end": "2009-06-30",
     "short_term_debt_transactions": -30000000,
-    "symbols": [
-      "EXP",
-      "EXPw"
-    ],
+    "symbols": ["EXP", "EXPw"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -4330000
   },
@@ -7735,9 +7213,7 @@
     "operating_cash_flow_continuing_ops": 907000000,
     "operating_cash_flow_total": 907000000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "MCK"
-    ],
+    "symbols": ["MCK"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 406000000
   },
@@ -7764,9 +7240,7 @@
     "operating_cash_flow_continuing_ops": 32484000,
     "operating_cash_flow_total": 32484000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "TGI"
-    ],
+    "symbols": ["TGI"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -3685000
   },
@@ -7792,9 +7266,7 @@
     "operating_cash_flow_continuing_ops": 75535000,
     "operating_cash_flow_total": 75535000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "LOGI"
-    ],
+    "symbols": ["LOGI"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 94153000
   },
@@ -7820,9 +7292,7 @@
     "operating_cash_flow_continuing_ops": 12953000,
     "operating_cash_flow_total": 12953000,
     "reporting_period_end": "2009-06-30",
-    "symbols": [
-      "CVLT"
-    ],
+    "symbols": ["CVLT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 4619000
   },
@@ -7848,9 +7318,7 @@
     "operating_cash_flow_continuing_ops": -5169000,
     "operating_cash_flow_total": -5169000,
     "reporting_period_end": "2009-07-03",
-    "symbols": [
-      "VSAT"
-    ],
+    "symbols": ["VSAT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -22320000
   },
@@ -7876,9 +7344,7 @@
     "operating_cash_flow_continuing_ops": 106866000,
     "operating_cash_flow_total": 106866000,
     "reporting_period_end": "2009-07-03",
-    "symbols": [
-      "FLEX"
-    ],
+    "symbols": ["FLEX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 3834000
   },
@@ -7903,10 +7369,7 @@
     "operating_cash_flow_total": -454577000,
     "reporting_period_end": "2009-07-31",
     "short_term_debt_transactions": -143199000,
-    "symbols": [
-      "HRB",
-      "HRBw"
-    ],
+    "symbols": ["HRB", "HRBw"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 0
   },
@@ -7932,9 +7395,7 @@
     "operating_cash_flow_continuing_ops": -66374000,
     "operating_cash_flow_total": -66374000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "KFY"
-    ],
+    "symbols": ["KFY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -50055000
   },
@@ -7960,10 +7421,7 @@
     "operating_cash_flow_continuing_ops": -25848000,
     "operating_cash_flow_total": -25848000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "SJM",
-      "SJMw"
-    ],
+    "symbols": ["SJM", "SJMw"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -174005000
   },
@@ -7992,9 +7450,7 @@
     "operating_cash_flow_total": 6324000000,
     "reporting_period_end": "2009-07-31",
     "short_term_debt_transactions": -388000000,
-    "symbols": [
-      "WMT"
-    ],
+    "symbols": ["WMT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 1059000000
   },
@@ -8021,10 +7477,7 @@
     "operating_cash_flow_total": -9589000,
     "reporting_period_end": "2009-07-31",
     "short_term_debt_transactions": -18616000,
-    "symbols": [
-      "JW.A",
-      "JW.B"
-    ],
+    "symbols": ["JW.A", "JW.B"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -86147000
   },
@@ -8050,9 +7503,7 @@
     "operating_cash_flow_continuing_ops": 74554000,
     "operating_cash_flow_total": 74554000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "CASY"
-    ],
+    "symbols": ["CASY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 4000000
   },
@@ -8078,9 +7529,7 @@
     "operating_cash_flow_continuing_ops": 47300000,
     "operating_cash_flow_total": 47300000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "ADSK"
-    ],
+    "symbols": ["ADSK"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -36000000
   },
@@ -8106,9 +7555,7 @@
     "operating_cash_flow_continuing_ops": 38200000,
     "operating_cash_flow_total": 38200000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "NTAP"
-    ],
+    "symbols": ["NTAP"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -138800000
   },
@@ -8134,9 +7581,7 @@
     "operating_cash_flow_continuing_ops": 45855000,
     "operating_cash_flow_total": 45855000,
     "reporting_period_end": "2009-07-31",
-    "symbols": [
-      "CRM"
-    ],
+    "symbols": ["CRM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 3878000
   },
@@ -8162,9 +7607,7 @@
     "operating_cash_flow_continuing_ops": 1052000000,
     "operating_cash_flow_total": 1052000000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "TGT"
-    ],
+    "symbols": ["TGT"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -417000000
   },
@@ -8190,9 +7633,7 @@
     "operating_cash_flow_continuing_ops": 518000000,
     "operating_cash_flow_total": 518000000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "GPS"
-    ],
+    "symbols": ["GPS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 142000000
   },
@@ -8218,9 +7659,7 @@
     "operating_cash_flow_total": 492000000,
     "reporting_period_end": "2009-08-01",
     "short_term_debt_transactions": -218000000,
-    "symbols": [
-      "JWN"
-    ],
+    "symbols": ["JWN"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 271000000
   },
@@ -8246,9 +7685,7 @@
     "operating_cash_flow_continuing_ops": 338265000,
     "operating_cash_flow_total": 338265000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "TJX"
-    ],
+    "symbols": ["TJX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -121105000
   },
@@ -8274,9 +7711,7 @@
     "operating_cash_flow_continuing_ops": 362000000,
     "operating_cash_flow_total": 362000000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "LTD"
-    ],
+    "symbols": ["LTD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 197000000
   },
@@ -8303,9 +7738,7 @@
     "operating_cash_flow_continuing_ops": 173236000,
     "operating_cash_flow_total": 173236000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "ROST"
-    ],
+    "symbols": ["ROST"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 22877000
   },
@@ -8332,9 +7765,7 @@
     "operating_cash_flow_total": 423000000,
     "reporting_period_end": "2009-08-01",
     "short_term_debt_transactions": 6000000,
-    "symbols": [
-      "M"
-    ],
+    "symbols": ["M"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 151000000
   },
@@ -8360,10 +7791,7 @@
     "operating_cash_flow_total": 97000000,
     "reporting_period_end": "2009-08-01",
     "short_term_debt_transactions": -65600000,
-    "symbols": [
-      "KEM",
-      "SIG"
-    ],
+    "symbols": ["KEM", "SIG"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 37800000
   },
@@ -8388,9 +7816,7 @@
     "operating_cash_flow_continuing_ops": 607000000,
     "operating_cash_flow_total": 607000000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "KSS"
-    ],
+    "symbols": ["KSS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 193000000
   },
@@ -8415,9 +7841,7 @@
     "operating_cash_flow_continuing_ops": -113181000,
     "operating_cash_flow_total": -113181000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "NVDA"
-    ],
+    "symbols": ["NVDA"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -246407000
   },
@@ -8443,9 +7867,7 @@
     "operating_cash_flow_discontinued_ops": -1000000,
     "operating_cash_flow_total": 436000000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "JCP"
-    ],
+    "symbols": ["JCP"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 136000000
   },
@@ -8471,11 +7893,7 @@
     "operating_cash_flow_continuing_ops": 7879000,
     "operating_cash_flow_total": 7879000,
     "reporting_period_end": "2009-08-01",
-    "symbols": [
-      "GME",
-      "GMEw",
-      "RRD"
-    ],
+    "symbols": ["GME", "GMEw", "RRD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -66090000
   },
@@ -8501,9 +7919,7 @@
     "operating_cash_flow_continuing_ops": 66500000,
     "operating_cash_flow_total": 66500000,
     "reporting_period_end": "2009-08-02",
-    "symbols": [
-      "SFD"
-    ],
+    "symbols": ["SFD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 89400000
   },
@@ -8529,9 +7945,7 @@
     "operating_cash_flow_continuing_ops": 1601000000,
     "operating_cash_flow_total": 1601000000,
     "reporting_period_end": "2009-08-02",
-    "symbols": [
-      "HD"
-    ],
+    "symbols": ["HD"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -13000000
   },
@@ -8558,9 +7972,7 @@
     "operating_cash_flow_total": 878000000,
     "reporting_period_end": "2009-08-15",
     "short_term_debt_transactions": -63000000,
-    "symbols": [
-      "KR"
-    ],
+    "symbols": ["KR"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 180000000
   },
@@ -8586,9 +7998,7 @@
     "operating_cash_flow_continuing_ops": 27200000,
     "operating_cash_flow_total": 27200000,
     "reporting_period_end": "2009-08-29",
-    "symbols": [
-      "MLHR"
-    ],
+    "symbols": ["MLHR"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 4200000
   },
@@ -8614,9 +8024,7 @@
     "operating_cash_flow_continuing_ops": 291000000,
     "operating_cash_flow_total": 291000000,
     "reporting_period_end": "2009-08-29",
-    "symbols": [
-      "BBY"
-    ],
+    "symbols": ["BBY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -104000000
   },
@@ -8641,9 +8049,7 @@
     "operating_cash_flow_continuing_ops": 198097000,
     "operating_cash_flow_total": 198097000,
     "reporting_period_end": "2009-08-29",
-    "symbols": [
-      "BBBY"
-    ],
+    "symbols": ["BBBY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 16309000
   },
@@ -8669,9 +8075,7 @@
     "operating_cash_flow_continuing_ops": -10591000,
     "operating_cash_flow_total": -10591000,
     "reporting_period_end": "2009-08-29",
-    "symbols": [
-      "RECN"
-    ],
+    "symbols": ["RECN"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -8664000
   },
@@ -8702,9 +8106,7 @@
     "operating_cash_flow_discontinued_ops": -13500000,
     "operating_cash_flow_total": 262600000,
     "reporting_period_end": "2009-08-30",
-    "symbols": [
-      "CAG"
-    ],
+    "symbols": ["CAG"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 38600000
   },
@@ -8733,9 +8135,7 @@
     "operating_cash_flow_total": 177500000,
     "reporting_period_end": "2009-08-30",
     "short_term_debt_transactions": -36800000,
-    "symbols": [
-      "DRI"
-    ],
+    "symbols": ["DRI"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 2100000
   },
@@ -8764,9 +8164,7 @@
     "operating_cash_flow_total": 34122000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": 103000,
-    "symbols": [
-      "AIR"
-    ],
+    "symbols": ["AIR"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 29547000
   },
@@ -8794,9 +8192,7 @@
     "operating_cash_flow_total": 96227000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": 94460000,
-    "symbols": [
-      "WOR"
-    ],
+    "symbols": ["WOR"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 68533000
   },
@@ -8822,9 +8218,7 @@
     "operating_cash_flow_continuing_ops": 52136000,
     "operating_cash_flow_total": 52136000,
     "reporting_period_end": "2009-08-31",
-    "symbols": [
-      "RPM"
-    ],
+    "symbols": ["RPM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -55454000
   },
@@ -8851,10 +8245,7 @@
     "operating_cash_flow_total": 709000000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": -249000000,
-    "symbols": [
-      "NKE",
-      "NKEw"
-    ],
+    "symbols": ["NKE", "NKEw"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 42000000
   },
@@ -8880,9 +8271,7 @@
     "operating_cash_flow_continuing_ops": 144894000,
     "operating_cash_flow_total": 144894000,
     "reporting_period_end": "2009-08-31",
-    "symbols": [
-      "CTAS"
-    ],
+    "symbols": ["CTAS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 38787000
   },
@@ -8907,9 +8296,7 @@
     "operating_cash_flow_continuing_ops": 186600000,
     "operating_cash_flow_total": 186600000,
     "reporting_period_end": "2009-08-31",
-    "symbols": [
-      "PAYX"
-    ],
+    "symbols": ["PAYX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 21800000
   },
@@ -8938,9 +8325,7 @@
     "operating_cash_flow_total": -55600000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": -4100000,
-    "symbols": [
-      "SCHL"
-    ],
+    "symbols": ["SCHL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -50500000
   },
@@ -8967,9 +8352,7 @@
     "operating_cash_flow_continuing_ops": 898000000,
     "operating_cash_flow_total": 898000000,
     "reporting_period_end": "2009-08-31",
-    "symbols": [
-      "FDX"
-    ],
+    "symbols": ["FDX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 100000000
   },
@@ -8997,9 +8380,7 @@
     "operating_cash_flow_total": 696508000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": -25539000,
-    "symbols": [
-      "GPN"
-    ],
+    "symbols": ["GPN"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 605931000
   },
@@ -9026,9 +8407,7 @@
     "operating_cash_flow_total": 172400000,
     "reporting_period_end": "2009-08-31",
     "short_term_debt_transactions": 14500000,
-    "symbols": [
-      "MOS"
-    ],
+    "symbols": ["MOS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -13900000
   },
@@ -9054,9 +8433,7 @@
     "operating_cash_flow_continuing_ops": 3738000000,
     "operating_cash_flow_total": 3738000000,
     "reporting_period_end": "2009-08-31",
-    "symbols": [
-      "ORCL"
-    ],
+    "symbols": ["ORCL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 2052000000
   },
@@ -9085,10 +8462,7 @@
     "operating_cash_flow_discontinued_ops": 11162000,
     "operating_cash_flow_total": 66452000,
     "reporting_period_end": "2009-09-23",
-    "symbols": [
-      "EAT",
-      "EATw"
-    ],
+    "symbols": ["EAT", "EATw"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -1400000
   },
@@ -9115,9 +8489,7 @@
     "operating_cash_flow_continuing_ops": 41604000,
     "operating_cash_flow_total": 41604000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "SYY"
-    ],
+    "symbols": ["SYY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -191704000
   },
@@ -9144,9 +8516,7 @@
     "operating_cash_flow_continuing_ops": 35773000,
     "operating_cash_flow_total": 35773000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "HAE"
-    ],
+    "symbols": ["HAE"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 5235000
   },
@@ -9172,9 +8542,7 @@
     "operating_cash_flow_continuing_ops": 141928000,
     "operating_cash_flow_total": 141928000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "MXIM"
-    ],
+    "symbols": ["MXIM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 13937000
   },
@@ -9199,9 +8567,7 @@
     "operating_cash_flow_continuing_ops": 117976000,
     "operating_cash_flow_total": 117976000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "XLNX"
-    ],
+    "symbols": ["XLNX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 22376000
   },
@@ -9227,9 +8593,7 @@
     "operating_cash_flow_continuing_ops": 28200000,
     "operating_cash_flow_total": 28200000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "RL"
-    ],
+    "symbols": ["RL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -201600000
   },
@@ -9255,9 +8619,7 @@
     "operating_cash_flow_continuing_ops": 4610000,
     "operating_cash_flow_total": 4610000,
     "reporting_period_end": "2009-09-26",
-    "symbols": [
-      "ROLL"
-    ],
+    "symbols": ["ROLL"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -3609000
   },
@@ -9285,9 +8647,7 @@
     "operating_cash_flow_total": 5094000000,
     "reporting_period_end": "2009-09-27",
     "short_term_debt_transactions": -1860000000,
-    "symbols": [
-      "JNJ"
-    ],
+    "symbols": ["JNJ"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 1033000000
   },
@@ -9313,9 +8673,7 @@
     "operating_cash_flow_continuing_ops": 2704000,
     "operating_cash_flow_total": 2704000,
     "reporting_period_end": "2009-09-27",
-    "symbols": [
-      "LRCX"
-    ],
+    "symbols": ["LRCX"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -61009000
   },
@@ -9341,9 +8699,7 @@
     "operating_cash_flow_continuing_ops": 24301000,
     "operating_cash_flow_total": 24301000,
     "reporting_period_end": "2009-09-27",
-    "symbols": [
-      "CY"
-    ],
+    "symbols": ["CY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -7925000
   },
@@ -9370,9 +8726,7 @@
     "operating_cash_flow_continuing_ops": 61188000,
     "operating_cash_flow_total": 61188000,
     "reporting_period_end": "2009-09-27",
-    "symbols": [
-      "CREE"
-    ],
+    "symbols": ["CREE"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 12940000
   },
@@ -9398,9 +8752,7 @@
     "operating_cash_flow_total": 46900000,
     "reporting_period_end": "2009-09-27",
     "short_term_debt_transactions": -21100000,
-    "symbols": [
-      "TDY"
-    ],
+    "symbols": ["TDY"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 11900000
   },
@@ -9426,9 +8778,7 @@
     "operating_cash_flow_continuing_ops": 20785000,
     "operating_cash_flow_total": 20785000,
     "reporting_period_end": "2009-09-27",
-    "symbols": [
-      "ILMN"
-    ],
+    "symbols": ["ILMN"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -17216000
   },
@@ -9456,9 +8806,7 @@
     "operating_cash_flow_total": 18625000,
     "reporting_period_end": "2009-09-27",
     "short_term_debt_transactions": -2655000,
-    "symbols": [
-      "ENS"
-    ],
+    "symbols": ["ENS"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -11219000
   },
@@ -9485,9 +8833,7 @@
     "operating_cash_flow_total": 1992000000,
     "reporting_period_end": "2009-09-30",
     "short_term_debt_transactions": -107000000,
-    "symbols": [
-      "ADM"
-    ],
+    "symbols": ["ADM"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 1262000000
   },
@@ -9516,9 +8862,7 @@
     "operating_cash_flow_total": 243700000,
     "reporting_period_end": "2009-09-30",
     "short_term_debt_transactions": -730000000,
-    "symbols": [
-      "ADP"
-    ],
+    "symbols": ["ADP"],
     "timeframe": "quarterly",
     "working_capital_changes_net": -193500000
   },
@@ -9544,10 +8888,7 @@
     "operating_cash_flow_continuing_ops": 50915000,
     "operating_cash_flow_total": 50915000,
     "reporting_period_end": "2009-09-30",
-    "symbols": [
-      "CACI",
-      "CAI"
-    ],
+    "symbols": ["CACI", "CAI"],
     "timeframe": "quarterly",
     "working_capital_changes_net": 4875000
   }
