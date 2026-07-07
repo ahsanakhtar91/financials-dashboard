@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Header from './components/Header'
 import StatCard, { type StatCardProps } from './components/StatCard'
 import data from './data/data.json'
@@ -11,13 +11,35 @@ import {
   toCurrencyLocale
 } from './data/dataUtils'
 
-const companySymbols = getCompanySymbols(data)
-
 function App() {
-  const [selectedSymbol, setSelectedSymbol] = useState(companySymbols[0])
+  const companySymbols = getCompanySymbols(data)
+
+  const [loading, setLoading] = useState(true)
+  const [selectedSymbol, setSelectedSymbol] = useState<string>(
+    companySymbols[0]
+  )
+
+  // Simulate async data load on first mount
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false)
+    }, 800)
+  }, [])
+
+  // Simulate async data load when symbol changes
+  const onSymbolChange = (symbol: string) => {
+    setSelectedSymbol(symbol)
+    setLoading(true)
+    setTimeout(() => {
+      setLoading(false)
+    }, 800)
+  }
 
   const companyRecords = useMemo(
-    () => getRecordsForCompany(recordsWithStats, selectedSymbol),
+    () =>
+      selectedSymbol
+        ? getRecordsForCompany(recordsWithStats, selectedSymbol)
+        : [],
     [selectedSymbol]
   )
 
@@ -77,28 +99,43 @@ function App() {
       <Header
         companySymbols={companySymbols}
         selectedSymbol={selectedSymbol}
-        onSymbolChange={setSelectedSymbol}
+        onSymbolChange={onSymbolChange}
       />
-      {mostRecentRecord && (
-        <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
-          <span>
-            Showing data for company:{' '}
-            <span className='font-semibold'>{selectedSymbol}</span>
-          </span>
-          <span className='mx-2'>|</span>
-          <span>
-            Most recent quarter:{' '}
-            <span className='font-semibold'>
-              Q{mostRecentRecord.fiscal_quarter} {mostRecentRecord.fiscal_year}
-            </span>
-          </span>
+      {loading ? (
+        <div className='font-mono'>
+          Loading Data for{' '}
+          <span className='font-semibold'>{selectedSymbol}</span> ...
         </div>
+      ) : (
+        <>
+          {mostRecentRecord ? (
+            <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
+              <span>
+                Showing data for{' '}
+                <span className='font-semibold'>{selectedSymbol}</span>
+              </span>
+              <span className='mx-2'>|</span>
+              <span>
+                Most recent quarter:{' '}
+                <span className='font-semibold'>
+                  Q{mostRecentRecord.fiscal_quarter}{' '}
+                  {mostRecentRecord.fiscal_year}
+                </span>
+              </span>
+            </div>
+          ) : (
+            <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
+              No data available for{' '}
+              <span className='font-semibold'>{selectedSymbol}</span>
+            </div>
+          )}
+          <div className='w-full px-6 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4'>
+            {statCardsData.map((card, index) => (
+              <StatCard key={index} {...card} />
+            ))}
+          </div>
+        </>
       )}
-      <div className='w-full px-6 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4'>
-        {statCardsData.map((card, index) => (
-          <StatCard key={index} {...card} />
-        ))}
-      </div>
     </div>
   )
 }
