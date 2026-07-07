@@ -45,7 +45,7 @@ export function getMostRecentRecord(
 }
 
 // Return value with commas and $ sign as $1,200,000
-export function toCurrencyLocale(value: number): string {
+export function toCurrencyLocale(value?: number): string {
   return (
     value?.toLocaleString('en-US', {
       style: 'currency',
@@ -56,7 +56,7 @@ export function toCurrencyLocale(value: number): string {
 }
 
 // Return value as $1.2M instead of $1,200,000
-export function toCompactCurrencyLocale(value: number): string {
+export function toCompactCurrencyLocale(value?: number): string {
   return (
     value?.toLocaleString('en-US', {
       style: 'currency',
@@ -65,4 +65,10 @@ export function toCompactCurrencyLocale(value: number): string {
       notation: 'compact'
     }) ?? '—'
   )
+}
+
+// Bonus task: used to highlight rows in the table where total liabilities exceed total assets
+export function liabilitiesExceedAssets(record: FinancialRecord): boolean {
+  if (!record.total_liabilities) return false
+  return record.total_liabilities > (record.total_assets || 0)
 }

@@ -1,4 +1,4 @@
-export interface FinancialRecord {
+export type FinancialRecord = {
   cik: string
   filing_date: string
   fiscal_quarter: number
@@ -92,3 +92,16 @@ export interface FinancialRecord {
 }
 
 export type FinancialsData = FinancialRecord[]
+
+export type SortDirection = 'asc' | 'desc'
+
+export type SortableTableKey = keyof Pick<
+  FinancialRecord,
+  | 'fiscal_year'
+  | 'fiscal_quarter'
+  | 'total_assets'
+  | 'total_liabilities'
+  | 'total_equity'
+  | 'cash_and_short_term_equivalents'
+  | 'long_term_debt_obligations'
+>

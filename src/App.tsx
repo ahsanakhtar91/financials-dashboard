@@ -10,6 +10,7 @@ import {
   toCompactCurrencyLocale,
   toCurrencyLocale
 } from './data/dataUtils'
+import { FilingsTable } from './components/FilingsTable'
 
 function App() {
   const companySymbols = getCompanySymbols(data)
@@ -95,14 +96,14 @@ function App() {
   )
 
   return (
-    <div className='flex flex-col flex-1 items-center justify-center gap-6'>
+    <div className='flex flex-col flex-1 items-center justify-center gap-6 pb-6'>
       <Header
         companySymbols={companySymbols}
         selectedSymbol={selectedSymbol}
         onSymbolChange={onSymbolChange}
       />
       {loading ? (
-        <div className='font-mono'>
+        <div className='font-mono text-sm'>
           Loading Data for{' '}
           <span className='font-semibold'>{selectedSymbol}</span> ...
         </div>
@@ -133,6 +134,9 @@ function App() {
             {statCardsData.map((card, index) => (
               <StatCard key={index} {...card} />
             ))}
+          </div>
+          <div className='w-full px-6'>
+            <FilingsTable records={companyRecords} />
           </div>
         </>
       )}

@@ -7,11 +7,13 @@ export type StatCardProps = {
 }
 
 const StatCard: React.FC<StatCardProps> = ({ title, value, subtitle }) => (
-  <div className='rounded-2xl border border-stone-300 bg-white p-4 shadow-sm transition hover:shadow-lg'>
+  <div className='rounded-2xl border border-stone-300 bg-white p-4 shadow-sm transition hover:shadow-md'>
     <div className='flex items-center justify-between'>
       <div>
         <p className='text-sm font-mono uppercase text-stone-500'>{title}</p>
-        <p className='mt-2 text-2xl font-semibold text-stone-700'>{value}</p>
+        <p className='mt-2 text-lg md:text-2xl font-semibold text-stone-700'>
+          {value}
+        </p>
       </div>
     </div>
     {subtitle ? (
