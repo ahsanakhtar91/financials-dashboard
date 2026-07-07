@@ -68,9 +68,7 @@ export function FilingsTable({ records }: FilingsTableProps) {
   return (
     <div className='overflow-hidden rounded-xl border border-stone-300 bg-white shadow-sm transition hover:shadow-md'>
       <div className='border-b border-stone-100 px-4 py-3'>
-        <div className='text-base font-semibold text-stone-900'>
-          Filing History
-        </div>
+        <div className='text-base font-bold text-stone-900'>Filing History</div>
 
         <div className='text-xs text-stone-400 mt-1'>
           {records.length} {records.length === 1 ? 'filing' : 'filings'} found

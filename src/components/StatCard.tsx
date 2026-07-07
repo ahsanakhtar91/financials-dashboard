@@ -11,7 +11,7 @@ const StatCard: React.FC<StatCardProps> = ({ title, value, subtitle }) => (
     <div className='flex items-center justify-between'>
       <div>
         <p className='text-sm font-mono uppercase text-stone-500'>{title}</p>
-        <p className='mt-2 text-lg md:text-2xl font-semibold text-stone-700'>
+        <p className='mt-2 text-lg md:text-2xl font-bold text-stone-700'>
           {value}
         </p>
       </div>

@@ -104,30 +104,29 @@ function App() {
       />
       {loading ? (
         <div className='font-mono text-sm'>
-          Loading Data for{' '}
-          <span className='font-semibold'>{selectedSymbol}</span> ...
+          Loading Data for <span className='font-bold'>{selectedSymbol}</span>{' '}
+          ...
         </div>
       ) : (
         <>
           {mostRecentRecord ? (
-            <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
-              <span>
+            <div className='flex flex-col gap-1 pl-6 text-sm self-start text-stone-600 font-mono'>
+              <div>
                 Showing data for{' '}
-                <span className='font-semibold'>{selectedSymbol}</span>
-              </span>
-              <span className='mx-2'>|</span>
-              <span>
+                <span className='font-bold'>{selectedSymbol}</span>
+              </div>
+              <div>
                 Most recent quarter:{' '}
-                <span className='font-semibold'>
+                <span className='font-bold'>
                   Q{mostRecentRecord.fiscal_quarter}{' '}
                   {mostRecentRecord.fiscal_year}
                 </span>
-              </span>
+              </div>
             </div>
           ) : (
             <div className='pl-6 text-sm self-start text-stone-600 font-mono'>
               No data available for{' '}
-              <span className='font-semibold'>{selectedSymbol}</span>
+              <span className='font-bold'>{selectedSymbol}</span>
             </div>
           )}
           <div className='w-full px-6 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4'>
